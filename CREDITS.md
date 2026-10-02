@@ -5,7 +5,9 @@ An unofficial concept redesign. It is not affiliated with or endorsed by Byron P
 ## Content sources
 - Address, phone, email, description ("small family run plumbing, heating and drain cleaning company... also serving neighboring counties"): Visit Hudson listing and the Byron Parker Plumbing & Heating Facebook page
 - Hours (Mon–Fri 8am–4pm), cross streets, services ("plumbing, heating and drain cleaning; hot water heaters in stock for installation as well as sump pumps; all plumbing repairs or new installs"): Yelp business info via Yahoo Local / MapQuest
-- "Servicing all of Columbia County and parts of Greene. Free estimates!" and "in the family for 5 generations, established in 1870": business's Porch profile
+- "Servicing all of Columbia County and parts of Greene. Free estimates!" and established-in-1870 phrasing: business's Porch profile (Porch also claimed "5 generations"; that claim is NOT used on this page — unsourced for current ownership)
+- Warren Street / c. 1870 date: *Illustrated Hudson, N.Y.* (1905) via https://gossipsofrivertown.blogspot.com/2012/10/hudson-in-1905-part-41.html — "No. 436 Warren street" and "established for thirty-five years"
+- Current owner name Robert Finkle: public directory listings (Blue Book, Conprofi / commerce directories)
 - 1905 history: *Illustrated Hudson, N.Y.* (1905), excerpted by The Gossips of Rivertown (Oct 7, 2012)
 - Finkle family: MapQuest business history (family bought it in 1943); NY DOS incorporation 8/9/1949 (via bizprofile.net); Daily Gazette obituaries of Robert "Skip" Finkle (2011) and Mary Jane Finkle (2025)
 - Fire on the top floor: a reader comment on the Gossips of Rivertown post above (unverified recollection, attributed as such)
